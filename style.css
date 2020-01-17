@@ -33,4 +33,9 @@ font-family: "Avenir Next" ;
 
 font-size:30px;
  padding:200px 300px 100px 300px;
-margin:0 0 10px;}
+margin:0 0 10px;
+display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;}
