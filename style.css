@@ -53,4 +53,5 @@ font-family: "Avenir Next" ;
 text-align: center;}
 
 hr{
-border: 20px;}
+ border: 10px solid green;
+  border-radius: 5px;}
