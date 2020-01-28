@@ -55,3 +55,7 @@ text-align: center;}
 hr{
  border: 10px solid green;
   border-radius: 5px;}
+
+a:hover{
+color: green;
+}
