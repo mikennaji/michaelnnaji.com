@@ -96,3 +96,8 @@ li:last-child{
 body{
   background-color: #bbeb14;
 }
+h1{
+  text-align: center;
+  background-color: #4414EB;
+  font-size: 25px;
+  font-family: "Avenir Next";
