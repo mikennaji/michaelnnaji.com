@@ -85,3 +85,6 @@ li:last-child{
 body{
   background-color: #bbeb14;
 }
+li a:hover{
+  background-color: #8D0AF5;
+}
