@@ -69,6 +69,7 @@ ul{
 
 li{
   float: left;
+  width: fit-content;
 }
 li a{
   display: block;
