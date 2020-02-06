@@ -1,19 +1,19 @@
 #Item1{
-  background-color: black;
+  background-color: #bbeb14;
 }
 #Item2{
-  background-color: black;
+  background-color: #bbeb14;
 }
 #Item3{
-  background-color: black;
+  background-color: #bbeb14;
 }
 #Item4{
-  background-color: black;
+  background-color: #bbeb14;
 }#Item5{
-  background-color: black;
+  background-color: #bbeb14;
 }
 #Item6{
-  background-color: black;
+  background-color: #bbeb14;
 }
 #container{
   background-color: white;
@@ -32,7 +32,7 @@
 }
 .button{
   color: white;
-  background-color: black;
+  background-color: #4414EB;
 
   padding: 8px 8px 8px  8px;
 }
@@ -61,7 +61,7 @@ ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: black;
+  background-color: #4414EB;
 }
 li{
   float: left;
@@ -78,4 +78,6 @@ li a{
 li:last-child{
   border-right: none;
 }
-
+body{
+  background-color: #bbeb14;
+}
