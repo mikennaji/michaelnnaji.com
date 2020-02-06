@@ -27,6 +27,7 @@ border: 2px solid #4414EB;
   grid-template-rows: 300px 300px ;
   grid-gap: 20px 20px;
   margin-top: 250px;
+  overflow: hidden;
   }
 .content{
   max-width: 1000px;
