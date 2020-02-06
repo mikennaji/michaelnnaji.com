@@ -25,7 +25,9 @@ border: 2px solid #4414EB;
 }
 #Item6{
   background-color: #bbeb14;
-  border: 2px solid #4414EB;}
+  border: 2px solid #4414EB;
+  box-shadow: 10px 10px #bbeb14;
+}
 #container{
   background-color: #4414EB;
   width:100%;
@@ -36,7 +38,8 @@ border: 2px solid #4414EB;
   grid-gap: 20px 20px;
   margin-top: 250px;
   overflow: hidden;
-  }
+  border: 2px solid #4414EB;  
+  box-shadow: 10px 10px #bbeb14;  }
 .content{
   max-width: 1000px;
   max-height: 1000px;
