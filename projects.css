@@ -1,22 +1,25 @@
 #Item1{
   background-color: #bbeb14;
-}
+  border: 2px solid #4414EB;}
 #Item2{
   background-color: #bbeb14;
-}
+  border: 2px solid #4414EB;}
 #Item3{
   background-color: #bbeb14;
-}
+  border: 2px solid #4414EB;}
 #Item4{
   background-color: #bbeb14;
-}#Item5{
-  background-color: #bbeb14;
+  border: 2px solid #4414EB;
+}
+#Item5{
+background-color: #bbeb14;
+border: 2px solid #4414EB;  
 }
 #Item6{
   background-color: #bbeb14;
-}
+  border: 2px solid #4414EB;}
 #container{
-  background-color: white;
+  background-color: #4414EB;
   width:100%;
   height:100%;
   display:grid;
