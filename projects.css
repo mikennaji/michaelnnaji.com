@@ -76,7 +76,7 @@ ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #24292e;
+  background-color: #fff;
 }
 li{
   float: left;
@@ -92,10 +92,10 @@ li a{
   font-size: 30px;
   font-family:"Avenir Next";}
 li a:hover{
-  background-color: #8D0AF5;
+  background-color: #fff;
 }
 body{
-  background-color: #bbeb14;
+  background-color: #fff;
 }
 h1{
   text-align: center;
