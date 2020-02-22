@@ -90,7 +90,9 @@ li a{
   text-decoration: none;
   border-right: 1px solid lightgrey;
   font-size: 30px;
-  font-family:"Avenir Next";}
+  font-family:"Avenir Next";
+  border-bottom: 1px solid lightgrey;}
+  
 li a:hover{
   background-color: #fff;
   border-bottom: 1px solid grey;
