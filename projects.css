@@ -84,7 +84,7 @@ li{
 }
 li a{
   display: block;
-  color: white;
+  color: grey;
   text-align: center;
   padding: 20px 16px;
   text-decoration: none;
@@ -93,6 +93,7 @@ li a{
   font-family:"Avenir Next";}
 li a:hover{
   background-color: #fff;
+  border-bottom: 1px solid grey;
 }
 body{
   background-color: #fff;
