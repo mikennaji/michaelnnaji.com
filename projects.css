@@ -34,7 +34,7 @@ border: 2px solid #4414EB;
   height:43%;
   display:grid;
   grid-template-columns: auto;
-  grid-template-rows: 300px;
+  grid-template-rows: 300px 300px 300px;
   grid-gap: 20px 20px;
   margin-top: 100px;
   overflow: hidden;
