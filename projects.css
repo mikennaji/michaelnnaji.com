@@ -10,18 +10,18 @@
 box-shadow: 10px 10px #bbeb14;
 }
 #Item3{
-  background-color: #bbeb14;
+  background-color: #fff;
   border: 2px solid #4414EB;
-  box-shadow: 10px 10px #bbeb14;}
+  box-shadow: 10px 10px lightgrey;}
 #Item4{
-  background-color: lightgrey;
+  background-color: #fff;
   border: 2px solid #4414EB;
-  box-shadow: 10px 10px #bbeb14;
+  box-shadow: 10px 10px lightgrey;
 }
 #Item5{
-background-color: lightgrey;
+background-color: #fff;
 border: 2px solid #4414EB;  
-  box-shadow: 10px 10px #bbeb14;
+  box-shadow: 10px 10px lightgrey;
 }
 #Item6{
   background-color: lightgrey;
