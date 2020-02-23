@@ -1,13 +1,13 @@
 #Item1{
-  background-color: #bbeb14     ;
+  background-color: #fff     ;
   border: 2px solid #4414EB;
-  box-shadow: 10px 10px #bbeb14;
+  box-shadow: 10px 10px lightgrey;
 }
 
 #Item2{
-  background-color: #bbeb14;
+  background-color: #fff;
   border: 2px solid #4414EB;
-box-shadow: 10px 10px #bbeb14;
+box-shadow: 10px 10px lightgrey;
 }
 #Item3{
   background-color: #fff;
