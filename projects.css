@@ -41,7 +41,8 @@ border: 2px solid #4414EB;
   overflow: hidden;
   border: 2px solid lightgrey;  
   box-shadow: 10px 10px lightgrey;  }
-.content{
+.content
+{
   max-width: 1000px;
   max-height: 1000px;
   margin: auto;
